@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/petchillsn/npm-package-demo"
+    "url": "git+https://github.com/petchill/npm-package-demo"
   },
   "keywords": [
     "Hello",
     "Greeter"
   ],
-  "author": "PetchillSN",
+  "author": "petchillsn",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.2.2",
