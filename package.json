@@ -23,7 +23,7 @@
     "Hello",
     "Greeter"
   ],
-  "author": "petchillsn",
+  "author": "petchill",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.2.2",
