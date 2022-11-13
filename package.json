@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-demo",
+  "name": "npm-package-demo-petch",
   "version": "1.0.0",
   "description": "A nice greeter",
   "main": "lib/index.js",
